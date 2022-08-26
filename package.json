@@ -1,0 +1,11 @@
+{
+  "name": "02-spa-dom-manipulating-iumahboobi",
+  "version": "1.0.0",
+  "description": "Francescas Booki list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ihsanullah Mahboobi",
+  "license": "ISC"
+}
